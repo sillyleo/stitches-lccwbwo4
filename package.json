@@ -1,0 +1,19 @@
+{
+  "name": "@backlight-dev/sillyleo.stitches-lccwbwo4",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve MD9vUlji6LwSRrUxATAe --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@stitches/react": "*",
+    "@mdx-js/react": "*",
+    "react": "^17",
+    "react-dom": "^17",
+    "@divriots/dockit-react": "*"
+  }
+}
